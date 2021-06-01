@@ -10,7 +10,8 @@ public class gitTEST {
         System.out.println("hello,Git2");
         System.out.println("hello,Git3");
         System.out.println("hello,Git4");
-        System.out.println("hot-fix");
+        System.out.println("hot-fix1");
+        System.out.println("hot-fix2");
 
 
     }
